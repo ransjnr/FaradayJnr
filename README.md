@@ -25,10 +25,10 @@ I am Web designer/developer, Biomedical Engineer and Full stack Developer. I lov
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://twitter.com/farad_jr" alt="Twitter"><img src="https://tse1.mm.bing.net/th?id=OIP.H836RvDYYgQZcZn0TC8qBAHaHa&pid=Api&rs=1&c=1&qlt=95&w=104&h=104"></a>
-    <a href="https://www.linkedin.com/in/ransford-oppong-a249a9219/" alt="Linkedin"><img src="https://tse1.mm.bing.net/th?id=OIP.IfuhJTGsN34WQqAZIdufvQHaHa&pid=Api&rs=1&c=1&qlt=95&w=108&h=108"></a>
-    <a href="https://www.instagram.com/farad_tech/" alt="Instagram"><img src="https://tse1.mm.bing.net/th?id=OIP.xa0FgRBsvMi7bmVNCDYsCgHaHa&pid=Api&rs=1&c=1&qlt=95&w=108&h=108"></a>
-    <a href="https://github.com/FaradayJnr" alt="GitHub"><img src="https://tse1.mm.bing.net/th?id=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&pid=Api&rs=1&c=1&qlt=95&w=105&h=105"></a>
+    <a href="https://twitter.com/farad_jr" alt="Twitter"><img src="https://tse1.mm.bing.net/th?id=OIP.H836RvDYYgQZcZn0TC8qBAHaHa&pid=Api&rs=1&c=1&qlt=95&w=104&h=104" height=100></a>
+    <a href="https://www.linkedin.com/in/ransford-oppong-a249a9219/" alt="Linkedin"><img src="https://tse1.mm.bing.net/th?id=OIP.IfuhJTGsN34WQqAZIdufvQHaHa&pid=Api&rs=1&c=1&qlt=95&w=108&h=108" height=100></a>
+    <a href="https://www.instagram.com/farad_tech/" alt="Instagram"><img src="https://tse1.mm.bing.net/th?id=OIP.xa0FgRBsvMi7bmVNCDYsCgHaHa&pid=Api&rs=1&c=1&qlt=95&w=108&h=108" height=100></a>
+    <a href="https://github.com/FaradayJnr" alt="GitHub"><img src="https://tse1.mm.bing.net/th?id=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&pid=Api&rs=1&c=1&qlt=95&w=105&h=105" height=100></a>
 </p>
   
 </p>
