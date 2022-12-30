@@ -28,7 +28,7 @@ I am Web designer/developer, Biomedical Engineer and Full stack Developer. I lov
     <a href="https://twitter.com/farad_jr" alt="Twitter"><img src="https://tse1.mm.bing.net/th?id=OIP.H836RvDYYgQZcZn0TC8qBAHaHa&pid=Api&rs=1&c=1&qlt=95&w=104&h=104" height=100></a>
     <a href="https://www.linkedin.com/in/ransford-oppong-a249a9219/" alt="Linkedin"><img src="https://tse1.mm.bing.net/th?id=OIP.IfuhJTGsN34WQqAZIdufvQHaHa&pid=Api&rs=1&c=1&qlt=95&w=108&h=108" height=100></a>
     <a href="https://www.instagram.com/farad_tech/" alt="Instagram"><img src="https://tse1.mm.bing.net/th?id=OIP.xa0FgRBsvMi7bmVNCDYsCgHaHa&pid=Api&rs=1&c=1&qlt=95&w=108&h=108" height=100></a>
-   <a href="https://dev.to/faradayjnr" alt="Dev"><img src="https://tse4.mm.bing.net/th?id=OIP.SWA0R2gppGxHPK02Hs1nTQHaFC&pid=Api&P=0"></a>
+   <a href="https://dev.to/faradayjnr" alt="Dev"><img src="https://tse4.mm.bing.net/th?id=OIP.SWA0R2gppGxHPK02Hs1nTQHaFC&pid=Api&P=0" height=50></a>
    <a href="https://medium.com/@ransfordoppong375" alt="Dev"><img src="https://tse2.mm.bing.net/th?id=OIP.50A7O2AEJeZkTQlbiIR-EAHaFj&pid=Api&P=0"></a>
     <a href="https://github.com/FaradayJnr" alt="GitHub"><img src="https://tse1.mm.bing.net/th?id=OIP.kjCUP06WDUMR88i5wo2SqwHaHa&pid=Api&rs=1&c=1&qlt=95&w=105&h=105" height=100></a>
 </p>
