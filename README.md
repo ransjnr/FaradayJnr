@@ -19,7 +19,7 @@
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-    <a href="https://twitter.com/imdhruv_28" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
+    <a href="https://twitter.com/farad_jr" alt="Twitter"><img src="https://github.com/FaradayJnr/FaradayJnr/blob/master/readme/twitter.png"></a>
     <a href="https://www.linkedin.com/in/dhruv-prajapati-151b88176/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
     <a href="https://www.instagram.com/imdhruv_28" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
     <a href="https://www.behance.net/dhruvprajapati1" alt="Behance"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/behance.png"></a>
