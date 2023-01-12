@@ -9,7 +9,7 @@ I am Web designer/developer, Biomedical Engineer and Full stack Developer. I lov
   <summary>Some interesting facts about me!</summary>
   <br>
 
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/farad_tech/)**.
+  - In the mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/farad_tech/)**.
 
   - While Coding, Listening Music and developing useful code. ⭐️
 
