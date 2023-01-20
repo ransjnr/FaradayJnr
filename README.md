@@ -7,6 +7,7 @@ I am Web designer/developer, Biomedical Engineer and Full stack Developer. I lov
 - 
 <details>
   <summary>Some interesting facts about me!</summary>
+  <br>
   - In the mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/farad_tech/)**.
 
   - While Coding, Listening Music and developing useful code. ⭐️
@@ -15,6 +16,7 @@ I am Web designer/developer, Biomedical Engineer and Full stack Developer. I lov
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=FaradayJnr&show_icons=true)
 </details>
+
 > ## Programming Languages
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
