@@ -15,8 +15,6 @@ I am Web designer/developer, Biomedical Engineer and Full stack Developer. I lov
 
   - Learning Physics and getting knowledge about Quantum Chromodynamics and Biophysics is My Night Job.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=FaradayJnr&show_icons=true)
-</details>
 
 > ## Programming Languages
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
