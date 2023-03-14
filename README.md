@@ -1,8 +1,8 @@
-### Hey, It's Ransford Oppong here
-I am Web designer/developer, Biomedical Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+**Ransford Oppong**
+I am 2nd year Biomedical Engineering Student at Kwame Nkrumah University of Science and Technology.Harnessing Technology for Positive Social Impacts.
+I am Junior sofware engineer currently as a Web and Cloud developer. I love experimenting with new technologies and building small projects.
 
-- 💻 Working as a **Web developer**.
-- ☀️ Learning and Developing Django based projects in Python.
+- ☀️ Learning and Developing React JS based projects.
 - ✍️ Writing tech blog posts over Internet.
 - 
 <details>
