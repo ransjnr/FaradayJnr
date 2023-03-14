@@ -4,6 +4,7 @@ I am 2nd year Biomedical Engineering Student at Kwame Nkrumah University of Scie
 I am Junior sofware engineer currently as a Web and Cloud developer. I love experimenting with new technologies and building small projects.
 
 - ☀️ Learning and Developing React JS based projects.
+- ☀️ Practicing DSA questions from neetcode.io.
 - ✍️ Writing tech blog posts over Internet.
 <details>
   <summary>Some interesting facts about me!</summary>
