@@ -1,28 +1,16 @@
 **Ransford Oppong**
 
-I am 2nd year Biomedical Engineering Student at Kwame Nkrumah University of Science and Technology.Harnessing Technology for Positive Social Impacts.
-I am Junior sofware engineer currently as a Web and Cloud developer. I love experimenting with new technologies and building small projects.
+I am a Biomedical Engineering Student at Kwame Nkrumah University of Science and Technology. Harnessing Technology for Positive Social Impacts.
+I am an aspiring sofware engineer, a cloud architect and a startup founder. I love experimenting with new technologies and building impact-driven projects.
 
-- ☀️ Learning and Developing React JS based projects.
-- ☀️ Practicing DSA questions from neetcode.io.
+- ☀️ Learning and Developing MERN Stack based projects.
+- ☀️ Practicing DSA questions from leetcode.com.
 - ✍️ Writing tech blog posts over Internet.
 <details>
-  <summary>Some interesting facts about me!</summary>
-  <br>
-  
-  - In the mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/farad_tech/)**.
-
-  - While Coding, Listening Music and developing useful code. ⭐️
-
-  - Learning Physics and getting knowledge about Quantum Chromodynamics and Biophysics is My Night Job.
-
 <div style="display:flex;justify-content: space-between">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaradayJnr&theme=ayu-mirage&hide_border=true" width="49.5%"/>
-
- 
 </div>  
 <br/>
-
 
  ## Programming Languages
 <img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
