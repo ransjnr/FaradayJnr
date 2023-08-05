@@ -1,11 +1,17 @@
 **Ransford Oppong**
+🔬🚀 Passionate about Converging Biology and Technology 🌱🧬
 
-I am a Biomedical Engineering Student at Kwame Nkrumah University of Science and Technology. Harnessing Technology for Positive Social Impacts.
-I am an aspiring sofware engineer, a cloud architect and a startup founder. I love experimenting with new technologies and building impact-driven projects.
+👋 Hey there! I'm Ransford, an aspiring Biological/Biomedical Engineer and Software Engineer with a vision to make a positive impact on the world. I thrive in fast-paced environments and love tackling challenging problems that require creative and analytical thinking.
 
-- ☀️ Learning and Developing MERN Stack based projects.
-- ☀️ Practicing DSA questions from leetcode.com.
-- ✍️ Writing tech blog posts over Internet.
+🔭 Currently, I'm working on groundbreaking projects that bridge the gap between biology and technology to drive advancements in healthcare and life sciences. As a founder at BUILD SCITECH, an innovative startup, I'm pioneering solutions at the intersection of biology, environment, technology, agriculture, and entrepreneurship.
+
+💼 My diverse skill set includes Web Development, AI & ML, IoT, Python Development, Project Management, Business Strategy, and Development. I also excel in Public Speaking, Communication, Team Building, and Leadership.
+
+🌱 I'm a lifelong learner and always seek opportunities to collaborate with like-minded individuals and contribute to projects that have a meaningful impact on society.
+
+🤝 If you're interested in discussions, collaborations, or exploring exciting ideas in healthcare, life sciences, or technology, feel free to connect with me. Let's shape the future together!
+
+Looking forward to connecting with you! Let's innovate and make a difference! 🚀💡
 <details>
 <div style="display:flex;justify-content: space-between">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaradayJnr&theme=ayu-mirage&hide_border=true" width="49.5%"/>
